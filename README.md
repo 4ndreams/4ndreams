@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea Tapia </h1>
-<h3 align="center">Student at Universidad dedl Bío-Bío, Concepción🌟.</h3>
+<h3 align="center">Student at Universidad del Bío-Bío, Concepción🌟.</h3>
 
 <br>
 
