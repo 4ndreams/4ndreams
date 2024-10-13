@@ -90,5 +90,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/4ndreams/4ndreams/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/4ndreams/GenerationSnake/blob/main/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
