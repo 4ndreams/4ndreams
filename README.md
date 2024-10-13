@@ -86,8 +86,6 @@
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-[4ndreams](https://github.com/4ndreams)
-
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
