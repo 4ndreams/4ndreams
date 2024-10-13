@@ -85,10 +85,3 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
-
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/4ndreams/GenerationSnake/blob/main/generate_snake.yml" alt = "Snake Game"/>
-</p>
