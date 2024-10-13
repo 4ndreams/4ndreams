@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrea Tapia </h1>
 <h3 align="center">Student at Universidad del Bío-Bío, Concepción🌟.</h3>
-
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=4ndreams&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=4ndreams&label=Profile%20views&color=0e75b6&style=flat"
     alt="4ndreams" /> 
   </p>
 
@@ -16,7 +15,7 @@
 
 - 📫 How to reach me **andreav.tapiaz@gmail.com**
 
-- ⚡ Fun fact :- Music🎵 is the reasons to live.
+- ⚡ Fun fact : Music🎵 is the reasons to live.
 
 <br>
 
@@ -24,16 +23,16 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/andrea-tapia-zúñiga-xd" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="Andrea Tapia Zúñiga" height="30" width="40" /></a>
   <a href="https://www.instagram.com/andreams._._/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+      alt="andreams._._" height="30" width="40" /></a>
  <a href="https://open.spotify.com/user/andreav.tapiaz" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="andreav.tapiaz" height="30" width="40" /></a>
      <a href="https://www.tiktok.com/@andreams._._" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/detain/svg-logos/refs/heads/master/svg/t/tiktok-icon-2.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="andreams._._" height="30" width="40" /></a>
 </p>
 
 <br>
